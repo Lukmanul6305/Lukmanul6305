@@ -1,0 +1,33 @@
+# Nama GitHub Action
+name: Generate Snake Animation
+
+# Kontrol kapan workflow ini akan berjalan
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+# Menambahkan izin yang diperlukan oleh Action
+permissions:
+  contents: write # <-- INI BAGIAN PENTING YANG DITAMBAHKAN
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
