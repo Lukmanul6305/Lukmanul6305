@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/lukmanul6305">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=009F00&center=false&vCenter=true&width=435&lines=Aspiring+Full-Stack+Developer;Always+Learning+New+Things;Building+the+Future%2C+One+Line+at+a+Time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=009F00&center=false&vCenter=true&width=435&lines=Aspiring+Back+end+Developer;Always+Learning+New+Things;Building+the+Future%2C+One+Line+at+a+Time." alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,6 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css3" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" alt="react" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="django" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="git" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="docker" width="48" height="48"/>
 </p>
