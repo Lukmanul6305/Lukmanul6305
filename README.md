@@ -14,12 +14,9 @@
 
 <p align="left">
   <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="javascript" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="typescript" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html5" width="48" height="48"/>
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css3" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" alt="react" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="git" width="48" height="48"/>
-  <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="docker" width="48" height="48"/>
 </p>
 
 ---
